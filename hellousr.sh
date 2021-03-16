@@ -1,3 +1,3 @@
 fname=$1
 lname=$2
-echo "Hello," $fname $lname
+echo "Hello,Good Morning!!" $fname $lname
